@@ -2,9 +2,16 @@
 
 ## Overview
 
-Welcome to the Learning Portal provided by the DataRookies community!   
+Welcome to the Learning Portal provided by the DataRookies community!  
 
-Here you can find links to tutorials and classes to help build your data skills!
+This is one of 3 hubs where you can interact with the community:
+1. **The Learning Portal (YOU ARE HERE!):** You can find links to tutorials and classes to help build your data skills!
+
+2. **The Facebook Group:** You can get information on events - such as meetups - and community announcements (This is open to everyone!)
+
+3. **The Slack Community:** You can interact with the community, talk about anything under the Data sun, and get the latest updates!
+
+You don't really need to visit or join everything, feel free to just join which works for you!
 
 This is an evolving resource so check back time-to-time to see the latest and greatest!
 
