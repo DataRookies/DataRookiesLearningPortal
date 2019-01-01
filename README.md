@@ -24,6 +24,29 @@ Please refer to this guide (insert link) on how to contribute to this repo.
 
 ## Tutorials
 
+In an effort to make learning Data Science less intimidating, we broke down the references into levels so that you can quickly go to the level most relevant for you!
+
+Below you can find links to the relevant level with learning materials found inside:
+
+Level 0: Starting from Scratch
+
+Level 1: Coding Basics 
+
+Level 2: Tools for Data Science
+
+Level 3: Managing Data Workflows
+
+Specialization 1: Machine Learning
+
+Specialization 2: Data Engineering
+
+Specialization 3: Data Visualization
+
+Bonus 1: Complete Bootcamp Classes
+
+Bonus 2: Competitions and Challenges
+
+Bonus 3: Mailing Lists 
 
 ## Disclaimer
 
