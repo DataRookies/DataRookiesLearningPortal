@@ -1,4 +1,5 @@
 # DataRookies
+This is an evolving resource so check back time-to-time to see the latest and greatest!
 
 ## Overview
 
@@ -13,12 +14,15 @@ This is one of 3 hubs where you can interact with the community:
 
 You don't really need to visit or join everything, feel free to just join which works for you!
 
-This is an evolving resource so check back time-to-time to see the latest and greatest!
+## The Learning Portal
 
-This is also an open community project, so feel free to push your own commits to this repo with updated links or better tutorials to help those who are just starting out!
+This Learning Portal is an effort of the DataRookies community to help those who are starting to learn Data Science find the right resources for the right level. The portal is meant to be a collation of articles, tutorials, and other learning materials that could serve as a guide for one's learning journey.
+
+This is an open community project, so feel free to push your own commits to this repo with updated links or better tutorials to help those who are just starting out!
+
+Please refer to this guide (insert link) on how to contribute to this repo.
 
 ## Tutorials
-
 
 
 ## Disclaimer
