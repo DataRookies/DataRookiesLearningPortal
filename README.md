@@ -1,18 +1,18 @@
 # DataRookies
-This is an evolving resource so check back time-to-time to see the latest and greatest!
+This is an evolving resource so check back time-to-time to see the latest and greatest.
 
 ## Overview
 
 Welcome to the Learning Portal provided by the DataRookies community!  
 
 This is one of 3 hubs where you can interact with the community:
-1. **The Learning Portal (YOU ARE HERE!):** You can find links to tutorials and classes to help build your data skills!
+1. **The Learning Portal (YOU ARE HERE!):** You can find links to tutorials and classes to help build your data skills.
 
 2. **The Facebook Group:** You can get information on events - such as meetups - and community announcements (This is open to everyone!)
 
-3. **The Slack Community:** You can interact with the community, talk about anything under the Data sun, and get the latest updates!
+3. **The Slack Community:** You can interact with the community, talk about anything under the Data sun, and get the latest updates.
 
-You don't really need to visit or join everything, feel free to just join which works for you!
+You don't really need to visit or join everything, feel free to just join which works for you.
 
 ## The Learning Portal
 
@@ -24,7 +24,7 @@ Please refer to this guide (insert link) on how to contribute to this repo.
 
 ## Tutorials
 
-In an effort to make learning Data Science less intimidating, we broke down the references into levels so that you can quickly go to the level most relevant for you!
+In an effort to make learning Data Science less intimidating, we broke down the references into levels so that you can quickly go to the level most relevant for you.
 
 Below you can find links to the relevant level with learning materials found inside:
 
