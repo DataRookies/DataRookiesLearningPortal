@@ -36,21 +36,21 @@ Below you can find links to the relevant level with learning materials found ins
 
 [Level 2: Tools for Data Science](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%202:%20Tools%20for%20Data%20Science.md)
 
-[Level 3: Managing Data Workflows]()
+Level 3: Managing Data Workflows
 
-[Specialization 1: Machine Learning]()
+Specialization 1: Machine Learning
 
-[Specialization 2: Data Engineering]()
+Specialization 2: Data Engineering
 
-[Specialization 3: Data Visualization]()
+Specialization 3: Data Visualization
 
 [Bonus 1: Complete Bootcamp Classes](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%201:%20Complete%20Bootcamp%20Classes.md)
 
-[Bonus 2: Competitions and Challenges]()
+Bonus 2: Competitions and Challenges
 
-[Bonus 3: Mailing Lists]() 
+Bonus 3: Mailing Lists
 
-[Bonus 4: Free Resources]()
+Bonus 4: Free Resources
 
 ## Disclaimer
 
