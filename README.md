@@ -2,7 +2,7 @@
 This is an evolving resource so check back time-to-time to see the latest and greatest.
 
 ## Overview
-
+![image](cover.png)
 Welcome to the Learning Portal provided by the DataRookies community!  
 
 This is one of 3 hubs where you can interact with the community:
