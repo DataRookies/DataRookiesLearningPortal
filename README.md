@@ -46,11 +46,11 @@ Specialization 3: Data Visualization
 
 [Bonus 1: Complete Bootcamp Classes](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%201:%20Complete%20Bootcamp%20Classes.md)
 
-Bonus 2: Competitions and Challenges
+[Bonus 2: Competitions and Challenges](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%202:%20Competitions%20and%20Challenges.md)
 
-Bonus 3: Mailing Lists
+[Bonus 3: Mailing Lists and Podcasts](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%203:%20Mailing%20Lists%20and%20Podcasts.md)
 
-Bonus 4: Free Resources
+[Bonus 4: Free Resources](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%204:%20Free%20Resources.md)
 
 ## Disclaimer
 
