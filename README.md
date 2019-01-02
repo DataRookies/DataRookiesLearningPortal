@@ -8,9 +8,9 @@ Welcome to the Learning Portal provided by the DataRookies community!
 This is one of 3 hubs where you can interact with the community:
 1. **The Learning Portal (YOU ARE HERE!):** You can find links to tutorials and classes to help build your data skills.
 
-2. **The Facebook Group:** You can get information on events - such as meetups - and community announcements (This is open to everyone!)
+2. [**The Facebook Page:**](fb.me/datarookies) You can get information on events - such as meetups - and community announcements (This is open to everyone!)
 
-3. **The Slack Community:** You can interact with the community, talk about anything under the Data sun, and get the latest updates.
+3. [**The Slack Community:**](https://join.slack.com/t/datarookies/shared_invite/enQtNTE0NzE5NjY0Mjc0LWMwMTA4ODAxMjU2ZmI0NjdjNmExYTdjZGJlMTQ2NDcxZDhjNzk0MThjNDUzY2VhODk3MmM4NTIyMmRmOGYwZjI) You can interact with the community, talk about anything under the Data sun, and get the latest updates.
 
 You don't really need to visit or join everything, feel free to just join which works for you.
 
@@ -36,13 +36,7 @@ Below you can find links to the relevant level with learning materials found ins
 
 [Level 2: Tools for Data Science](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%202:%20Tools%20for%20Data%20Science.md)
 
-Level 3: Managing Data Workflows
-
-Specialization 1: Machine Learning
-
-Specialization 2: Data Engineering
-
-Specialization 3: Data Visualization
+[Level 3: Managing Data Workflows](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%203:%20Managing%20Data%20Workflows.md)
 
 [Bonus 1: Complete Bootcamp Classes](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%201:%20Complete%20Bootcamp%20Classes.md)
 
@@ -51,6 +45,16 @@ Specialization 3: Data Visualization
 [Bonus 3: Mailing Lists and Podcasts](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%203:%20Mailing%20Lists%20and%20Podcasts.md)
 
 [Bonus 4: Free Resources](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%204:%20Free%20Resources.md)
+
+## Levels to come in the near future with your help:
+
+None of us are specialists at the moment, and would like to ask you to contribute if you are one! Feel free to reach out to us here or on our [Facebook Page](fb.me/datarookies), or go a head and create a pull request if you want to add the resources here straight!
+
+**Specialization 1: Machine Learning**
+
+**Specialization 2: Data Engineering**
+
+**Specialization 3: Data Visualization**
 
 ## Disclaimer
 
