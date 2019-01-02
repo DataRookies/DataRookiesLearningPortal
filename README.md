@@ -26,29 +26,31 @@ Please refer to this guide (insert link) on how to contribute to this repo.
 
 In an effort to make learning Data Science less intimidating, we broke down the references into levels so that you can quickly go to the level most relevant for you.
 
+The levels are not also strict learning flows, feel free to jump around them or cherry-pick parts to match a learning style where you feel you're learning best.
+
 Below you can find links to the relevant level with learning materials found inside:
 
-Level 0: Starting from Scratch
+[Level 0: Starting from Scratch](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%200:%20Starting%20from%20Scratch%20.md)
 
-Level 1: Coding Basics 
+[Level 1: Coding Basics](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%201:%20Coding%20Basics.md)
 
-Level 2: Tools for Data Science
+[Level 2: Tools for Data Science](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%202:%20Tools%20for%20Data%20Science.md)
 
-Level 3: Managing Data Workflows
+[Level 3: Managing Data Workflows]()
 
-Specialization 1: Machine Learning
+[Specialization 1: Machine Learning]()
 
-Specialization 2: Data Engineering
+[Specialization 2: Data Engineering]()
 
-Specialization 3: Data Visualization
+[Specialization 3: Data Visualization]()
 
-Bonus 1: Complete Bootcamp Classes
+[Bonus 1: Complete Bootcamp Classes](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%201:%20Complete%20Bootcamp%20Classes.md)
 
-Bonus 2: Competitions and Challenges
+[Bonus 2: Competitions and Challenges]()
 
-Bonus 3: Mailing Lists 
+[Bonus 3: Mailing Lists]() 
 
-Bonus 4: Free Resources
+[Bonus 4: Free Resources]()
 
 ## Disclaimer
 
