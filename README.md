@@ -28,21 +28,21 @@ The levels are not also strict learning flows, feel free to jump around them or 
 
 Below you can find links to the relevant level with learning materials found inside:
 
-[Level 0: Starting from Scratch](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%200:%20Starting%20from%20Scratch%20.md)
+[Level 0: Starting from Scratch](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Level%200:%20Starting%20from%20Scratch%20.md)
 
-[Level 1: Coding Basics](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%201:%20Coding%20Basics.md)
+[Level 1: Coding Basics](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Level%201:%20Coding%20Basics.md)
 
-[Level 2: Tools for Data Science](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%202:%20Tools%20for%20Data%20Science.md)
+[Level 2: Tools for Data Science](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Level%202:%20Tools%20for%20Data%20Science.md)
 
-[Level 3: Managing Data Workflows](https://github.com/aescay/DataRookies/blob/master/learning_references/Level%203:%20Managing%20Data%20Workflows.md)
+[Level 3: Managing Data Workflows](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Level%203:%20Managing%20Data%20Workflows.md)
 
-[Bonus 1: Complete Bootcamp Classes](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%201:%20Complete%20Bootcamp%20Classes.md)
+[Bonus 1: Complete Bootcamp Classes](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Bonus%201:%20Complete%20Bootcamp%20Classes.md)
 
-[Bonus 2: Competitions and Challenges](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%202:%20Competitions%20and%20Challenges.md)
+[Bonus 2: Competitions and Challenges](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Bonus%202:%20Competitions%20and%20Challenges.md)
 
-[Bonus 3: Mailing Lists and Podcasts](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%203:%20Mailing%20Lists%20and%20Podcasts.md)
+[Bonus 3: Mailing Lists and Podcasts](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Bonus%203:%20Mailing%20Lists%20and%20Podcasts.md)
 
-[Bonus 4: Free Resources](https://github.com/aescay/DataRookies/blob/master/learning_references/Bonus%204:%20Free%20Resources.md)
+[Bonus 4: Free Resources](https://github.com/DataRookies/DataRookiesLearningPortal/blob/master/learning_references/Bonus%204:%20Free%20Resources.md)
 
 ## Levels to come in the near future with your help:
 
