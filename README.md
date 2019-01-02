@@ -20,8 +20,6 @@ This Learning Portal is an effort of the DataRookies community to help those who
 
 This is an open community project, so feel free to push your own commits to this repo with updated links or better tutorials to help those who are just starting out!
 
-Please refer to this guide (insert link) on how to contribute to this repo.
-
 ## Tutorials
 
 In an effort to make learning Data Science less intimidating, we broke down the references into levels so that you can quickly go to the level most relevant for you.
