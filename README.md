@@ -48,6 +48,8 @@ Bonus 2: Competitions and Challenges
 
 Bonus 3: Mailing Lists 
 
+Bonus 4: Free Resources
+
 ## Disclaimer
 
 This project is definitely a work in progress and we would love to see your contributions in this. Our limited experience will limit the resources shown here, but with your help we can make this the hub for anyone who wants to learn Data Science related skills and tools!
