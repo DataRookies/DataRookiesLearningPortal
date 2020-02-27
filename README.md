@@ -1,16 +1,15 @@
-![image](cover.png)
-This is an evolving resource so check back time-to-time to see the latest and greatest.
+# README
+
+![image](.gitbook/assets/cover.png) This is an evolving resource so check back time-to-time to see the latest and greatest.
 
 ## Overview
 
-Welcome to the Learning Portal provided by the DataRookies community!  
+Welcome to the Learning Portal provided by the DataRookies community!
 
-This is one of 3 hubs where you can interact with the community:
-1. **The Learning Portal (YOU ARE HERE!):** You can find links to tutorials and classes to help build your data skills.
+This is one of 3 hubs where you can interact with the community: 1. **The Learning Portal \(YOU ARE HERE!\):** You can find links to tutorials and classes to help build your data skills.
 
-2. [**The Facebook Page:**](fb.me/datarookies) You can get information on events - such as meetups - and community announcements (This is open to everyone!)
-
-3. [**The Slack Community:**](https://join.slack.com/t/datarookies/shared_invite/enQtNTE0NzE5NjY0Mjc0LWMwMTA4ODAxMjU2ZmI0NjdjNmExYTdjZGJlMTQ2NDcxZDhjNzk0MThjNDUzY2VhODk3MmM4NTIyMmRmOGYwZjI) You can interact with the community, talk about anything under the Data sun, and get the latest updates.
+1. [**The Facebook Page:**](https://github.com/DataRookies/DataRookiesLearningPortal/tree/64adecde86cb4dc52770f7d613ccefdc81497177/fb.me/datarookies/README.md) You can get information on events - such as meetups - and community announcements \(This is open to everyone!\)
+2. [**The Slack Community:**](https://join.slack.com/t/datarookies/shared_invite/enQtNTE0NzE5NjY0Mjc0LWMwMTA4ODAxMjU2ZmI0NjdjNmExYTdjZGJlMTQ2NDcxZDhjNzk0MThjNDUzY2VhODk3MmM4NTIyMmRmOGYwZjI) You can interact with the community, talk about anything under the Data sun, and get the latest updates.
 
 You don't really need to visit or join everything, feel free to just join which works for you.
 
@@ -46,7 +45,7 @@ Below you can find links to the relevant level with learning materials found ins
 
 ## Levels to come in the near future with your help:
 
-None of us are specialists at the moment, and would like to ask you to contribute if you are one! Feel free to reach out to us here or on our [Facebook Page](fb.me/datarookies), or go a head and create a pull request if you want to add the resources here straight!
+None of us are specialists at the moment, and would like to ask you to contribute if you are one! Feel free to reach out to us here or on our [Facebook Page](https://github.com/DataRookies/DataRookiesLearningPortal/tree/64adecde86cb4dc52770f7d613ccefdc81497177/fb.me/datarookies/README.md), or go a head and create a pull request if you want to add the resources here straight!
 
 **Specialization 1: Machine Learning**
 
@@ -57,3 +56,4 @@ None of us are specialists at the moment, and would like to ask you to contribut
 ## Disclaimer
 
 This project is definitely a work in progress and we would love to see your contributions in this. Our limited experience will limit the resources shown here, but with your help we can make this the hub for anyone who wants to learn Data Science related skills and tools!
+
