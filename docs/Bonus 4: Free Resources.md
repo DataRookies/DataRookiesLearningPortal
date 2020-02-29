@@ -1,4 +1,7 @@
-# Bonus 4: Free Resources
+---
+id: bonus4
+title: "Bonus 4: Free Resources"
+---
 
 Here you can find links to Free Books and other resources for Data Science.
 

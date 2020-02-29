@@ -1,4 +1,7 @@
-# Bonus 3: Mailing Lists and Podcasts
+---
+id: bonus3
+title: "Bonus 3: Mailing Lists and Podcasts"
+---
 
 Here you can find links to Data Science related Mailing Lists and Podcasts.
 

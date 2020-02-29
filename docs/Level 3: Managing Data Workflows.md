@@ -1,4 +1,7 @@
-# Level 3: Managing Data Workflows
+---
+id: level3
+title: "Level 3: Managing Data Workflows"
+---
 
 Data Science and its related fields have a tendency to be messy and iterrative. To try and solve that, others have developed tools to try to tame that mess and prevent your code from breaking. Here are just a few examples of tools you could use to help organize and maintain your code.
 
