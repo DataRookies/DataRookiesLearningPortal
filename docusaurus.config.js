@@ -1,23 +1,23 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'DataRookies Learning Portal',
+  tagline: 'Links to tutorials, classes, and various resources to help build your data skills!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'DataRookies', // Usually your GitHub org/user name.
+  projectName: 'DataRookiesLearningPortal', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'DataRookies Learning Portal',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/DR-profpic.png',
       },
       links: [
         {to: 'docs/level0', label: 'Levels', position: 'left'},
         {to: 'docs/bonus1', label: 'Bonus', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/DataRookies/DataRookiesLearningPortal',
           label: 'GitHub',
           position: 'right',
         },
@@ -26,51 +26,25 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
-        // {
-        //   title: 'Docs',
-        //   items: [
-        //     {
-        //       label: 'Style Guide',
-        //       to: 'docs/doc1',
-        //     },
-        //     {
-        //       label: 'Second Doc',
-        //       to: 'docs/doc2',
-        //     },
-        //   ],
-        // },
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'Social',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/DataRookies/DataRookiesLearningPortal',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Slack',
+              href: 'https://join.slack.com/t/datarookies/shared_invite/enQtNTE0NzE5NjY0Mjc0LWMwMTA4ODAxMjU2ZmI0NjdjNmExYTdjZGJlMTQ2NDcxZDhjNzk0MThjNDUzY2VhODk3MmM4NTIyMmRmOGYwZjI',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://fb.me/datarookies',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DataRookies. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -80,7 +54,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/DataRookies/DataRookiesLearningPortal/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
