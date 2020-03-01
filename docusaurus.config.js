@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'DataRookies Learning Portal',
+  title: 'Learning Portal',
   tagline: 'Links to tutorials, classes, and various resources to help build your data skills!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'DataRookies', // Usually your GitHub org/user name.
-  projectName: 'DataRookiesLearningPortal', // Usually your repo name.
+  organizationName: 'DataRookies',
+  projectName: 'DataRookiesLearningPortal',
   themeConfig: {
     navbar: {
-      title: 'DataRookies Learning Portal',
+      title: 'DataRookies',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'DataRookies Logo',
         src: 'img/DR-profpic.png',
       },
       links: [
