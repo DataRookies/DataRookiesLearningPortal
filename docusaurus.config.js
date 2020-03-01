@@ -20,6 +20,16 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: 'https://join.slack.com/t/datarookies/shared_invite/enQtNTE0NzE5NjY0Mjc0LWMwMTA4ODAxMjU2ZmI0NjdjNmExYTdjZGJlMTQ2NDcxZDhjNzk0MThjNDUzY2VhODk3MmM4NTIyMmRmOGYwZjI',
+          label: 'Slack',
+          position: 'right',
+        },
+        {
+          href: 'https://fb.me/datarookies',
+          label: 'Facebook',
+          position: 'right',
+        },
       ],
     },
     footer: {
