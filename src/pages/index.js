@@ -30,7 +30,7 @@ function Home() {
       description="DataRookies Learning Portal Docusaurus Site">
       <header className={classnames('hero', styles.heroBanner)}>
         <div className="container">
-          <p><img src="/static/img/cover.png" alt="image" /></p>
+          <p><img src="/DataRookiesLearningPortal/img/cover.png" alt="image" /></p>
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
