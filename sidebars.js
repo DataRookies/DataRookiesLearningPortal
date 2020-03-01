@@ -12,9 +12,7 @@ module.exports = {
 
   levels: {
     Levels: ['level0', 'level1', 'level2', 'level3'],
-  },
-
-  bonus: {
     Bonus: ['bonus1', 'bonus2', 'bonus3', 'bonus4'],
   },
+
 };
