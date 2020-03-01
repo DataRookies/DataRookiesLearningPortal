@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Learning Portal',
   tagline: 'Links to tutorials, classes, and various resources to help build your data skills!',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://datarookies.github.io',
+  baseUrl: '/DataRookiesLearningPortal/',
   favicon: 'img/favicon.ico',
   organizationName: 'DataRookies',
   projectName: 'DataRookiesLearningPortal',
