@@ -14,7 +14,7 @@ module.exports = {
         src: 'img/DR-profpic.png',
       },
       links: [
-        {to: 'docs/level0', label: 'Learning Portal', position: 'left'},
+        {to: 'docs/overview', label: 'Learning Portal', position: 'left'},
         {
           href: 'https://github.com/DataRookies/DataRookiesLearningPortal',
           label: 'GitHub',

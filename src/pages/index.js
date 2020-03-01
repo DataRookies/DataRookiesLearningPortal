@@ -39,14 +39,47 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/level0')}>
+              to={useBaseUrl('docs/overview')}>
               Start Learning!
             </Link>
           </div>
         </div>
       </header>
       <main>
-        
+        <div style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          height: '50vh',
+        }}>
+          <div>
+            <h1 id="overview">Welcome!</h1>
+            <p>
+              Welcome to the Learning Portal provided by the DataRookies community!
+              This is one of 3 hubs where you can interact with the community:
+            </p>
+            <ol>
+              <li><p>
+                <strong>The Learning Portal (YOU ARE HERE!):</strong> You can 
+                find links to tutorials and classes to help build your data skills.
+              </p></li>
+              <li><p><a href="https://fb.me/datarookies">
+                <strong>The Facebook Page:</strong></a> You can get information
+                 on events - such as meetups - and community announcements 
+                 (This is open to everyone!)
+              </p></li>
+              <li><p><a href="https://join.slack.com/t/datarookies/shared_invite/enQtNTE0NzE5NjY0Mjc0LWMwMTA4ODAxMjU2ZmI0NjdjNmExYTdjZGJlMTQ2NDcxZDhjNzk0MThjNDUzY2VhODk3MmM4NTIyMmRmOGYwZjI">
+                <strong>The Slack Community:</strong></a> You can interact with
+                 the community, talk about anything under the Data sun, and get
+                  the latest updates.
+              </p></li>
+            </ol>
+            <p>
+              You don't really need to visit or join everything, feel free to 
+              just join which works for you.
+            </p>
+          </div>
+        </div>
       </main>
     </Layout>
   );
