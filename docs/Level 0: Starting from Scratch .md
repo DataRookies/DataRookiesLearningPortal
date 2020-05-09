@@ -10,6 +10,7 @@ Here you can find links to overviews on Data Science and related fields. You wil
 - [Data Science](https://en.wikipedia.org/wiki/Data_science) - Wikipedia
 - [Introduction To Machine Learning](https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4) - Towards Data Science
 - [Best Data Science Courses Online](https://link.medium.com/qEf3DPUX8S) - freeCodeCamp
+- [Data Science Learning Plan From Scratch](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde?source=friends_link&sk=b67ab491956a074123b4260df1667de4) - Towards Data Science
 
 ## YouTube Videos
 - [Data Science In 5 Minutes](https://www.youtube.com/watch?v=X3paOmcrTjQ) - Simplilearn
